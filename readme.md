@@ -1,0 +1,1 @@
+“A Python-based Number Guessing Game that uses conditional logic, loops, and random number generation. The project demonstrates input validation, modular programming, and user interaction with multiple difficulty levels.”
