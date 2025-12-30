@@ -1,0 +1,2 @@
+# Player scores will be stored here
+2025-12-29 05:21:41.557121 | Level: Medium | Remaining Attempts: 2
