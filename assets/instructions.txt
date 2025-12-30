@@ -1,0 +1,6 @@
+Number Guessing Game Rules:
+1. The computer chooses a number between 1 and 100.
+2. You must guess the number.
+3. You will receive hints if your guess is too high or too low.
+4. You have limited attempts.
+5. Guess correctly to win!
