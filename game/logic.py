@@ -19,6 +19,11 @@ def choose_difficulty():
         return 200, 5, "Hard"
 
 def start_game():
+    # Get username
+    username = input("Enter your name: ").strip()
+    if not username:
+        username = "Guest"
+    
     max_number,attempts,level = choose_difficulty()
 
     number = random.randint(1,max_number)
@@ -33,7 +38,7 @@ def start_game():
 
         if guess == number:
             print("🎉 Congratulations! You guessed the correct number.")
-            save_score(level, attempts + 1)
+            save_score(username, level, attempts + 1)
 
             return
 
