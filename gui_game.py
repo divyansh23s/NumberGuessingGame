@@ -37,7 +37,6 @@ try:
         
         username = entered_username
         
-        # Hide login screen
         for widget in login_frame.winfo_children():
             widget.destroy()
         login_frame.pack_forget()
