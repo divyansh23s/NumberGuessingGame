@@ -1,2 +1,8 @@
 # Player scores will be stored here
 2025-12-29 05:21:41.557121 | Level: Medium | Remaining Attempts: 2
+# Player scores will be stored here
+2025-12-29 05:21:41.557121 | Level: Medium | Remaining Attempts: 2
+2025-12-31 02:28:54.843230 | Username: Divyansh | Level: Easy | Remaining Attempts: 4
+2025-12-31 02:35:50.124972 | Username: abc | Level: Easy | Remaining Attempts: 6
+2025-12-31 02:41:25.862509 | Username: dev | Level: Medium | Remaining Attempts: 4
+2025-12-31 02:56:00.054500 | Username: dev | Level: Easy | Remaining Attempts: 3
