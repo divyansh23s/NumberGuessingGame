@@ -38,7 +38,7 @@ Run the Python file:
 python main.py
 ```
 
-🎮 How to Play :
+🎮 How to Play -
 
 Launch the game.
 
@@ -56,7 +56,7 @@ Correct 🎉
 
 Keep guessing until you win!
 
-🛠️ Built With :
+🛠️ Built With -
 
 Python
 
@@ -64,7 +64,7 @@ Tkinter (GUI framework)
 
 Random module
 
-📚 Learning Purpose :
+📚 Learning Purpose -
 
 This project is great for learning:
 
