@@ -10,7 +10,6 @@ The player tries to guess a randomly generated number within a given range, and 
 - 🎲 Random number generation
 - 🪟 User-friendly GUI using Tkinter
 - ✅ Instant feedback: *Too High*, *Too Low*, or *Correct*
-- 🔁 Restart / Play again option
 - 🧠 Simple logic, great for beginners
 
 ---
