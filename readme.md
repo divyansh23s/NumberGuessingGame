@@ -66,12 +66,6 @@ Tkinter (GUI framework)
 
 Random module
 
-📸 Screenshot (Optional)
-
-Add a screenshot of your GUI here
-
-![Game Screenshot](screenshot.png)
-
 📚 Learning Purpose
 
 This project is great for learning:
