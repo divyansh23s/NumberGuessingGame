@@ -22,5 +22,77 @@ Make sure you have **Python 3.x** installed.
 Tkinter comes pre-installed with most Python distributions.  
 To check if Tkinter is available:
 
-```bash
 python -m tkinter
+
+🚀 How to Run the Game
+
+Clone this repository or download the files:
+
+git clone https://github.com/your-username/number-guessing-game.git
+
+
+Navigate to the project directory:
+
+cd number-guessing-game
+
+
+Run the Python file:
+
+python main.py
+
+🎮 How to Play
+
+Launch the game.
+
+Enter a number in the input box.
+
+Click the Guess button.
+
+The game will tell you if your guess is:
+
+Too High 📈
+
+Too Low 📉
+
+Correct 🎉
+
+Keep guessing until you win!
+
+🛠️ Built With
+
+Python
+
+Tkinter (GUI framework)
+
+Random module
+
+📸 Screenshot (Optional)
+
+Add a screenshot of your GUI here
+
+![Game Screenshot](screenshot.png)
+
+📚 Learning Purpose
+
+This project is great for learning:
+
+Python basics
+
+GUI development with Tkinter
+
+Event handling
+
+Random number generation
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repository and improve the game.
+
+📄 License
+
+This project is licensed under the MIT License.
+
+👤 Author
+
+Your Name
