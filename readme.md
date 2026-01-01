@@ -22,23 +22,22 @@ Make sure you have **Python 3.x** installed.
 Tkinter comes pre-installed with most Python distributions.  
 To check if Tkinter is available:
 
-python -m tkinter
+``` python -m tkinter ```
 
 🚀 How to Run the Game
-
+```
 Clone this repository or download the files:
 
 git clone https://github.com/your-username/number-guessing-game.git
-
 
 Navigate to the project directory:
 
 cd number-guessing-game
 
-
 Run the Python file:
 
 python main.py
+```
 
 🎮 How to Play
 
