@@ -87,4 +87,4 @@ This project is licensed under the MIT License.
 
 👤 Author
 
-Your Name
+Divyansh Singh
